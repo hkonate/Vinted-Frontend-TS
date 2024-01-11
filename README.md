@@ -1,7 +1,7 @@
 <h1>React Website With Typescript Redux Vercel Stripe</h1>
 <h2>A Replica of Vinted website written in React showing how to create a web application using Typescript Redux Stripe Cloudinary Styled-Component and deployed on Vercel</h2>
 <p>
-  This project is an events project that was developed alongside Nest Documentation and a YouTube series demonstrating how to create a custom REST API in NestJS. It was built to replicate Vinted website. Every section of this project illustrates how to accomplish the following:
+  This project is an events project that was developed alongside React Documentation. It was built to replicate Vinted website. Every section of this project illustrates how to accomplish the following:
 </p>
 
 <ul>
